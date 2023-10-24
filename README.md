@@ -1,1 +1,1 @@
-# CosmosSignal
+# Спектр БТ
