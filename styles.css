@@ -457,7 +457,7 @@ input[type=range].filter_slider::-ms-thumb {
     width: 7vw;
     height: 7vw;
     position: absolute;
-    margin-top: -17.5vw;
+    margin-top: -15.5vw;
     margin-left: -1.8vw;
     display: none;
 }
